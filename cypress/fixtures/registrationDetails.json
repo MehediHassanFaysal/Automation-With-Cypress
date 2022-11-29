@@ -1,0 +1,26 @@
+[
+  {
+    "FirstName": "Faysal",
+    "LastName": "Sarder",
+    "Email": "faysal@gmail.com",
+    "Password": "1a1",
+    "ConfirmPassward": "1a1",
+    "Expected": "Please enter 6 or more characters. Leading or trailing spaces will be ignored."
+  },
+  {
+    "FirstName": "123",
+    "LastName": "123",
+    "Email": "*120_12@12345.com",
+    "Password": "012345",
+    "ConfirmPassward": "012345",
+    "Expected": "There is already an account with this email address."
+  },
+  {
+    "FirstName": "123",
+    "LastName": "123",
+    "Email": "001@001.com",
+    "Password": "123456",
+    "ConfirmPassward": "1234567",
+    "Expected": "Please make sure your passwords match."
+  }
+]

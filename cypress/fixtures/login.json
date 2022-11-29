@@ -1,0 +1,17 @@
+[
+  {
+    "email": "123@123.com",
+    "password": "123321",
+    "expected": "Invalid login or password.",
+    "url_path": "/customer/account/login/"
+  },
+  {
+    "email": "*_12@12.com",
+    "password": "012345",
+    "expected": "Dashboard",
+    "dashboard": "My Dashboard",
+    "url": "https://www.shoppersbd.com/customer/account/",
+    "user_email": "*_12@12.com",
+    "logout_validation": "You have logged out and will be redirected to our homepage in 5 seconds."
+  }
+]
