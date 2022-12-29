@@ -46,3 +46,6 @@ Cypress.Commands.overwrite("contains",(originalFn, subject, filter, text, option
 
     return originalFn(subject,filter,text,options)
 })
+
+
+require('@4tw/cypress-drag-drop')
