@@ -27,11 +27,11 @@
 
 ## Product:: [Automation Testing Practice](https://testautomationpractice.blogspot.com/)
 
-    - Testing Category: UI Testing
-    - Testing Type: Automation
-    - Tool & Framework: Cypress
-    - Reporter: Cypress mochawesome reporter
-    - Total Test Cases/ "it" blocks: 22
-    - IDE: VScode
+- Testing Category: UI Testing
+- Testing Type: Automation
+- Tool & Framework: Cypress
+- Reporter: Cypress mochawesome reporter
+- Total Test Cases/ "it" blocks: 22
+- IDE: VScode
 
 > [Click to review the MindMap](https://drive.google.com/file/d/1l6-27vy6rARNbHxdT_Y77OZcUywH1BW4/view?usp=sharing)
