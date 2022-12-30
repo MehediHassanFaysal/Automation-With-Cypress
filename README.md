@@ -30,6 +30,7 @@
 - Testing Category: UI Testing
 - Testing Type: Automation
 - Tool & Framework: Cypress
+- Approach: Page Object Model
 - Reporter: Cypress mochawesome reporter
 - Total Test Cases/ "it" blocks: 22
 - IDE: VScode
